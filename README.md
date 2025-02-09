@@ -1,16 +1,19 @@
-## Hi there 👋
-
 <!--
-**easbarba/easbarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Easbarba is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
 
-Here are some ideas to get you started:
+ Easbarba is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ You should have received a copy of the GNU General Public License
+ along with Easbarba. If not, see <https://www.gnu.org/licenses/>.
 -->
+
+## Links
+
+https://dev.to/easbarba / https://gitlab.com/easbarba / https://codeberg.org/easbarbosa
+ 
